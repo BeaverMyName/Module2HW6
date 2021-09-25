@@ -6,6 +6,8 @@ namespace HomeElectronics
     {
         public static void Main(string[] args)
         {
+            var starter = new Starter();
+            starter.StartAppliacation();
         }
     }
 }
